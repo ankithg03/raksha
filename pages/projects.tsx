@@ -15,7 +15,7 @@ const Projects = () => (
 		</Section>
 
 		<Section>
-			<div className="bg-gray-200 py-8 px-4 sm:px-6 lg:px-8 grid grid-cols-1 gap-4 md:grid-cols-3">
+			<div className="bg-gray-200 py-8 px-4 sm:px-6 lg:px-8 grid grid-cols-1 gap-4 md:grid-cols-2">
 				<div className="max-w-xl mx-auto">
 					<div className="p-10 bg-white rounded-lg shadow-xl overflow-hidden">
 					<h3 className="font-bold text-gray-800">Proj 01 &bull; Python Tkinter</h3>
