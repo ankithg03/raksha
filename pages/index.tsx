@@ -123,7 +123,7 @@ const Index = () => (
 					<div className="w-full col-start-6 col-end-10 my-4 mr-auto p-4 border border-gray-300 rounded-xl">
 						<h3 className="font-semibold text-xl mb-1 text-gray-900">On Going</h3>
 						<p className="text-gray-600">
-						<strong>System EngineerSystem Engineer</strong><br/>
+						<strong>Engineer</strong><br/>
 						Cerner Corporation · Full-time</p>
 					</div>
 					</div>
