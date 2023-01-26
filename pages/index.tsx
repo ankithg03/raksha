@@ -1,4 +1,3 @@
-import InstallPWA from '@/components/InstallPWA'
 import Page from '@/components/page'
 import Section from '@/components/section'
 
